@@ -1,0 +1,15 @@
+C:\Users\Oskar\source\repos\network\network\bin\Debug\net6.0\network.exe
+C:\Users\Oskar\source\repos\network\network\bin\Debug\net6.0\network.deps.json
+C:\Users\Oskar\source\repos\network\network\bin\Debug\net6.0\network.runtimeconfig.json
+C:\Users\Oskar\source\repos\network\network\bin\Debug\net6.0\network.dll
+C:\Users\Oskar\source\repos\network\network\bin\Debug\net6.0\network.pdb
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.dll
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\refint\network.dll
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.pdb
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\network.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\network\network\obj\Debug\net6.0\ref\network.dll
